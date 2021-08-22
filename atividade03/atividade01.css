@@ -1,0 +1,35 @@
+    p::first-letter {
+        color: red;
+    }
+    
+    p {
+        font-size: 29px;
+        background-color: pink;
+        width: 500px;
+        margin-left: 350px;
+        text-align: center;
+    }
+    
+    #link1:link {
+        color: darkblue;
+    }
+    
+    #link2:visited {
+        color: maroon;
+    }
+    
+    #link3:hover {
+        background-color: yellow;
+    }
+    
+    #link4:active {
+        color: rgb(18, 112, 184);
+    }
+    
+    #link5:active {
+        color: rgb(18, 112, 184);
+    }
+    
+    #link6:hover {
+        background-color: yellow;
+    }
